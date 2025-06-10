@@ -59,7 +59,7 @@ Here are some ideas to extend SynthGuard into a more powerful and practical syst
 
 ## 🧑‍💻 Authors
 
-- Built by [Me](https://www.github.com/DivyanshuVashiht)
+- Built by [Me](https://www.github.com/DivyanshuVashisht)
 - Powered by [🤗 Hugging Face](https://huggingface.co/), `diffusers`, and open-source tools
 
 ---
